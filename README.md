@@ -15,13 +15,13 @@ This is a Python application that reads student data from a YAML file and filter
 ![Sample Output](https://github.com/Raghav6126/yaml-assignment-container/blob/main/Screenshots/1.png)
 
 ### 📂 Project Folder Structure
-![Folder Structure](https://github.com/Tanmay-hue/Container-Yaml-Assignment/blob/main/screenshots/2.png)
+![Folder Structure](https://github.com/Raghav6126/yaml-assignment-container/blob/main/Screenshots/2.png)
 
 ## 🛠 Installation
 1️⃣ *Clone the repository*
 sh
-git clone https://github.com/Tanmay-hue/Container-Yaml-Assignment.git
-cd Container-Yaml-Assignment
+git clone https://github.com/Raghav6126/yaml-assignment-container.git
+cd yaml-assignment-container
 
 
 2️⃣ *Install dependencies*
